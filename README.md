@@ -25,11 +25,6 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 ```
-NAME : KAVIYA D
-REGISTER NUMBER : 212223040089
-```
-
-```
 import pandas as pd
 import numpy as np
 ```
